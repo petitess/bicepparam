@@ -1,0 +1,13 @@
+{
+    "experimentalFeaturesEnabled": {
+        "paramsFiles": true,
+        "userDefinedTypes": true
+    },
+    "analyzers": {
+        "core": {
+            "enabled": true,
+            "verbose": false,
+            "rules": {}
+        }
+    }
+}
